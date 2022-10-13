@@ -1,8 +1,11 @@
 # PROYEK CRUD SQLITE
 
 Tugas : Menjalankan program crud sederhana dengan sqlite
+
 NAMA : Annisa Aulia Nadhila
+
 NIM : 2041720023
+
 KELAS : TI - 3C
 
 ## ScreenShoot hasil pengerjaan
